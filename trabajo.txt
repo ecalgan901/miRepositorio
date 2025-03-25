@@ -1,3 +1,5 @@
 mi primer repositorio
 mi segunda modificacion
+
 nuestro fichero es el bueno, no nos gustan los conflictos
+=======
